@@ -1,4 +1,4 @@
-# Quark---1
+# Quark week-1
 
 # Task Manager Web Application
 This is a simple task manager web application built with HTML, CSS, and Vanilla JS. The application allows users to create, update and delete tasks as well as view previously completed tasks.
